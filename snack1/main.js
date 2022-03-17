@@ -7,4 +7,4 @@ while(somma <= 50){
     contenitore.push(numeroInput)
 }
 console.log(somma);
-console.log(contenitore);
+console.log(contenitore); 
